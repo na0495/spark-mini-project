@@ -1,0 +1,17 @@
+[
+    {
+        "idm": 1,
+        "marque": "sony",
+        "produit": "souris"
+    },
+    {
+        "idm": 2,
+        "marque": "samsung",
+        "produit": "clavier"
+    },
+    {
+        "idm": 3,
+        "marque": "apple",
+        "produit": "ecran"    
+    }
+]
